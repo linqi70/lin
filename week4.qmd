@@ -1,8 +1,12 @@
 ---
 title: "week4"
-author: "LinQI"
+author: "LinQi"
+date: "`r Sys.()"
 format: html
-editor: visual
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
 ## Quarto
