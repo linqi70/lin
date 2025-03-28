@@ -26,4 +26,8 @@ You can add options to executable code like this
 The `echo: false` option disables the printing of code (only output is displayed).
 
 # Tutorial4
-CHange done from feature branch.
+Change done from feature branch.
+
+conflicting change from main.
+
+Change from conflict branch.
